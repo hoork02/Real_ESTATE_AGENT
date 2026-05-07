@@ -1,4 +1,4 @@
-# Bayanat-RealEstate Agent 🇰🇼
+# Bayanat-RealEstate Agent 
 
 **Bayanat-RealEstate Agent** is a state-of-the-art property intelligence and valuation platform specifically designed for the **2026 Kuwaiti Real Estate Market**. Built using a Model Context Protocol (MCP) architecture, it bridges the gap between public market data and private investment rules through an autonomous AI agent.
 
@@ -40,7 +40,7 @@ The agent utilizes a suite of autonomous tools to provide deep market insights:
 ##  Getting Started
 
 1. **Configure Environment**:
-   Ensure your `GEMINI_API_KEY` is set in the AI Studio secrets.
+   Ensure your `GEMINI_API_KEY` is set in the secrets.
    
 2. **Run Development Server**:
    ```bash
